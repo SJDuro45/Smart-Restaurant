@@ -1,0 +1,16 @@
+Name: Omaha Steak
+Description: Tender and juicy 20-oz steak grilled to perfection!
+Picture: /pictures/steak.jpg
+Price: 9.99
+Name: Bacon Cheeseburger
+Description: Sizzling Bacon on this juicy, mouthwatering burger
+Picture: /pictures/cheeseburger.jpg
+Price: 8.99
+Name: Baby Back Ribs
+Description: BBQ-Glazed Ribs baked with care
+Picture: /pictures/ribs.jpg
+Price: 7.99
+Name: Chicken Alfredo Pasta
+Description: Pasta spread with delicate alfredo sauce, and topped with chicken!
+Picture: /pictures/pasta.jpg
+Price: 9.99
